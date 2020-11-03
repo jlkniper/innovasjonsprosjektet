@@ -1,7 +1,7 @@
 //innovasjonsprosjektet
 //fullstendig kode til gruppe 28 sitt prosjekt
 
-
+//JØRGEN ER BEST
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(13, 12, 11, 10, 9, 8);
 
